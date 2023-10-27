@@ -1,0 +1,191 @@
+CVE,TITLE,QVS
+CVE-2021-4034,polkits pkexec Local Privilege Escalation Vulnerability (PwnKit),95
+CVE-2022-0028,Palo Alto Networks PAN-OS Reflected Amplification Denial-of-Service  Vulnerability,95
+CVE-2022-0543,Debian-specific Redis Server Lua Sandbox Escape Vulnerability,95
+CVE-2022-0609,Google Chrome Animation Module Use-After-Free Vulnerability,95
+CVE-2022-0824,webmin Improper Access Control to Remote Code Execution,75
+CVE-2022-0847,Linux Kernel Privilege Escalation Vulnerability in push_pipe Function (Dirty  Pipe),95
+CVE-2022-0995,Linux Kernel Event Notification Subsystem Out-of-Bounds Write Flaw,75
+CVE-2022-1040,Sophos Firewall User Portal and Webadmin Authentication Bypass  Vulnerability,100
+CVE-2022-1096,Google Chromium V8 Type Confusion Vulnerability,95
+CVE-2022-1329,WordPress Elementor Website Builder Plugin Remote Code Execution  Vulnerability,75
+CVE-2022-1364,Google Chromium V8 Turbofan Type Confusion Vulnerability,95
+CVE-2022-1388,F5 BIG-IP Missing Authentication Vulnerability,95
+CVE-2022-2003,AutomationDirect DirectLOGIC Sensitive Information Leakge Vulnerability,65
+CVE-2022-20699,Cisco Small Business RV Series Routers Stack-based Buffer Overflow  Vulnerability,95
+CVE-2022-20700,Cisco Small Business RV Series Routers Stack-based Buffer Overflow  Vulnerability,95
+CVE-2022-20701,Cisco Small Business RV Series Routers Stack-based Buffer Overflow  Vulnerability,95
+CVE-2022-20703,Cisco Small Business RV Series Routers Stack-based Buffer Overflow  Vulnerability,95
+CVE-2022-20708,Cisco Small Business RV Series Routers Stack-based Buffer Overflow  Vulnerability,95
+CVE-2022-20821,Cisco IOS XR Open Port Vulnerability,95
+CVE-2022-20828,Cisco Adaptive Security Appliance (ASA) FirePOWER Arbitrary Command  Execution Vulnerability,75
+CVE-2022-2143,Advantech iView NetworkServlet Command Injection Vulnerability,75
+CVE-2022-21882,Microsoft Win32k Privilege Escalation Vulnerability,95
+CVE-2022-21919,Microsoft Windows User Profile Service Privilege Escalation Vulnerability,95
+CVE-2022-21971,Microsoft Windows Runtime Remote Code Execution Vulnerability,95
+CVE-2022-21999,Windows Print Spooler Privilege Escalation Vulnerability (SpoolFool),95
+CVE-2022-22047,Microsoft Windows Client Server Runtime Subsystem (CSRSS) Privilege  Escalation Vulnerability,95
+CVE-2022-22536,SAP Multiple Products HTTP Request Smuggling Vulnerability,95
+CVE-2022-22587,Apple Multiple Products Memory Corruption Vulnerability,95
+CVE-2022-22616,Apple Multiple Products Gatekeeper Bypass Incorrect Authorization  Vulnerability,40
+CVE-2021-4034,polkits pkexec Local Privilege Escalation Vulnerability (PwnKit),95
+CVE-2022-0028,Palo Alto Networks PAN-OS Reflected Amplification Denial-of-Service  Vulnerability,95
+CVE-2022-0543,Debian-specific Redis Server Lua Sandbox Escape Vulnerability,95
+CVE-2022-0609,Google Chrome Animation Module Use-After-Free Vulnerability,95
+CVE-2022-0824,webmin Improper Access Control to Remote Code Execution,75
+CVE-2022-0847,Linux Kernel Privilege Escalation Vulnerability in push_pipe Function (Dirty  Pipe),95
+CVE-2022-0995,Linux Kernel Event Notification Subsystem Out-of-Bounds Write Flaw,75
+CVE-2022-1040,Sophos Firewall User Portal and Webadmin Authentication Bypass  Vulnerability,100
+CVE-2022-1096,Google Chromium V8 Type Confusion Vulnerability,95
+CVE-2022-1329,WordPress Elementor Website Builder Plugin Remote Code Execution  Vulnerability,75
+CVE-2022-1364,Google Chromium V8 Turbofan Type Confusion Vulnerability,95
+CVE-2022-1388,F5 BIG-IP Missing Authentication Vulnerability,95
+CVE-2022-2003,AutomationDirect DirectLOGIC Sensitive Information Leakge Vulnerability,65
+CVE-2022-20699,Cisco Small Business RV Series Routers Stack-based Buffer Overflow  Vulnerability,95
+CVE-2022-20700,Cisco Small Business RV Series Routers Stack-based Buffer Overflow  Vulnerability,95
+CVE-2022-20701,Cisco Small Business RV Series Routers Stack-based Buffer Overflow  Vulnerability,95
+CVE-2022-20703,Cisco Small Business RV Series Routers Stack-based Buffer Overflow  Vulnerability,95
+CVE-2022-20708,Cisco Small Business RV Series Routers Stack-based Buffer Overflow  Vulnerability,95
+CVE-2022-20821,Cisco IOS XR Open Port Vulnerability,95
+CVE-2022-20828,Cisco Adaptive Security Appliance (ASA) FirePOWER Arbitrary Command  Execution Vulnerability,75
+CVE-2022-2143,Advantech iView NetworkServlet Command Injection Vulnerability,75
+CVE-2022-21882,Microsoft Win32k Privilege Escalation Vulnerability,95
+CVE-2022-21919,Microsoft Windows User Profile Service Privilege Escalation Vulnerability,95
+CVE-2022-21971,Microsoft Windows Runtime Remote Code Execution Vulnerability,95
+CVE-2022-21999,Windows Print Spooler Privilege Escalation Vulnerability (SpoolFool),95
+CVE-2022-22047,Microsoft Windows Client Server Runtime Subsystem (CSRSS) Privilege  Escalation Vulnerability,95
+CVE-2022-22536,SAP Multiple Products HTTP Request Smuggling Vulnerability,95
+CVE-2022-22620,Apple Webkit Remote Code Execution Vulnerability,95
+CVE-2022-22674,Apple macOS Out-of-Bounds Read Vulnerability,95
+CVE-2022-22675,Apple macOS Out-of-Bounds Write Vulnerability,95
+CVE-2022-22718,Windows Print Spooler Privilege Escalation Vulnerability (SpoolFool),95
+CVE-2022-2294,WebRTC Heap Buffer Overflow Vulnerability,95
+CVE-2022-22947,VMware Spring Cloud Gateway Code Injection Vulnerability,95
+CVE-2022-22954,VMware Workspace ONE Access and Identity Manager Server-Side  Template Injection Vulnerability,100
+CVE-2022-22960,VMware Multiple Products Privilege Escalation Vulnerability,95
+CVE-2022-22963,VMware Tanzu Spring Cloud Function Remote Code Execution Vulnerability,95
+CVE-2022-22965,Spring Framework JDK 9+ Remote Code Execution Vulnerability  (Spring4Shell),100
+CVE-2022-22972,VMware Multiple Products Authentication Bypass Vulnerability,75
+CVE-2022-22973,VMware Workspace ONE Access and Identity Manager Privilege Escalation  Vulnerability,75
+CVE-2022-23131,Zabbix Frontend Authentication Bypass Vulnerability,95
+CVE-2022-23134,Zabbix Frontend Improper Access Control Vulnerability,95
+CVE-2022-23176,WatchGuard Firebox and XTM Privilege Escalation Vulnerability,95
+CVE-2022-23277,Microsoft Exchange Server Remote Code Execution Vulnerability,75
+CVE-2022-23642,Sourcegraph gitserver Service Remote Code Execution Vulnerability,75
+CVE-2022-23812,node-ipc Malicious peacenotwar Package Import Code Injection Vulnerability,95
+CVE-2022-24086,Adobe Commerce and Magento Open Source Improper Input Validation  Vulnerability,95
+CVE-2022-24112,Apache APISIX Authentication Bypass Vulnerability,96
+CVE-2022-24521,Microsoft Windows CLFS Driver Privilege Escalation Vulnerability,95
+CVE-2022-24664,PHP Everywhere WordPress metaboxes Code Injection Vulnerability,41
+CVE-2022-24665,PHP Everywhere WordPress gutenberg Code Injection Vulnerability,41
+CVE-2022-24682,Zimbra Webmail Cross-Site Scripting Vulnerability,95
+CVE-2022-24706,Apache CouchDB Insecure Default Initialization of Resource Vulnerability,95
+CVE-2022-24734,MyBB Admin Control Code Injection Remote Code Execution Vulnerability,75
+CVE-2022-24934,Kingsoft WPS Office wpsupdater.exe Remote Code Execution Vulnerability,95
+CVE-2022-25075,TOTOLink A3000RU Command Injection Vulnerability,71
+CVE-2022-25076,TOTOLink A800R Command Injection Vulnerability,71
+CVE-2022-25077,TOTOLink A3100R Command Injection Vulnerability,71
+CVE-2022-25078,TOTOLink A3600R Command Injection Vulnerability,71
+CVE-2022-25079,TOTOLink A810R Command Injection Vulnerability,71
+CVE-2022-25080,TOTOLink A830R Command Injection Vulnerability,71
+CVE-2022-25081,TOTOLink T10 Command Injection Vulnerability,71
+CVE-2022-25082,TOTOLink A950RG Command Injection Vulnerability,71
+CVE-2022-25083,TOTOLink A860R Command Injection Vulnerability,71
+CVE-2022-25084,TOTOLink T6 Command Injection Vulnerability,72
+CVE-2022-26134,Atlassian Confluence Server and Data Center Remote Code Execution  Vulnerability,100
+CVE-2022-26138,Atlassian Questions For Confluence App Hard-coded Credentials  Vulnerability,94
+CVE-2022-26143,MiCollab and MiVoice Business Express TP-240 Component Access  Control Vulnerability,95
+CVE-2022-26186,TOTOLink N600R Command Injection Vulnerability,71
+CVE-2022-26210,TOTOLink Multiple Firmware Versions Command Injection Vulnerability,71
+CVE-2022-26258,D-Link DIR-820L Remote Code Execution Vulnerability,95
+CVE-2022-26318,WatchGuard Firebox and XTM Appliances Arbitrary Code Execution,95
+CVE-2022-26352,dotCMS Unrestricted Upload of File Vulnerability,100
+CVE-2022-26485,Mozilla Firefox Use-After-Free Vulnerability,95
+CVE-2022-26486,Mozilla Firefox WebGPU IPC Framework Use-After-Free Vulnerability,95
+CVE-2022-26500,Veeam Backup & Replication Remote Code Execution Vulnerability,95
+CVE-2022-26501,Veeam Backup & Replication Remote Code Execution Vulnerability,93
+CVE-2022-26504,Veeam Backup & Replication Improper Authentication Vulnerability,95
+CVE-2022-26706,Apple Multiple Products Sandbox Bypass Vulnerability,36
+CVE-2022-26871,Trend Micro Apex Central Arbitrary File Upload Vulnerability,95
+CVE-2022-26904,Microsoft Windows User Profile Service Privilege Escalation Vulnerability,95
+CVE-2022-26923,Active Directory Domain Services Elevation of Privilege Vulnerability  (Certifried),95
+CVE-2022-26925,Windows LSA Spoofing Vulnerability (PetitPotam),95
+CVE-2022-27226,iRZ Mobile Router Cross Site Request Forgery Remote Code Execution  Vulnerability,72
+CVE-2022-27518,Citrix Application Delivery Controller (ADC) and Gateway Authentication  Bypass Vulnerability,95
+CVE-2022-27593,QNAP Photo Station Externally Controlled Reference Vulnerability,93
+CVE-2022-27666,Linux Kernel IPsec ESP Transformation Out-of-Bounds Write Privilege  Escalation Vulnerability,75
+CVE-2022-27924,Zimbra Collaboration (ZCS) Command Injection Vulnerability,95
+CVE-2022-27925,Zimbra Collaboration (ZCS) Arbitrary File Upload Vulnerability,95
+CVE-2022-28219,ManageEngine ADAudit Plus Path Traversal XML Injection Vulnerability,75
+CVE-2022-28381,ALLMediaServer Buffer Overflow Vulnerability,75
+CVE-2022-2856,Google Chrome Intents Insufficient Input Validation Vulnerability,95
+CVE-2022-28810,Zoho ManageEngine ADSelfService Plus Remote Code Execution  Vulnerability,95
+CVE-2022-28958,D-Link DIR-816L Remote Code Execution Vulnerability,95
+CVE-2022-29464,WSO2 Multiple Products Unrestrictive Upload of File Vulnerability,100
+CVE-2022-29499,Mitel MiVoice Connect Data Validation Vulnerability,100
+CVE-2022-29806,ZoneMinder Language Settings Remote Code Execution Vulnerability,75
+CVE-2022-30170,Windows Credential Roaming Service Elevation of Privilege Vulnerability,95
+CVE-2022-30190,Microsoft Windows Support Diagnostic Tool (MSDT) Remote Code  Execution Vulnerability (Follina),100
+CVE-2022-30333,RARLAB UnRAR Directory Traversal Vulnerability,95
+CVE-2022-30525,Zyxel Multiple Firewalls OS Command Injection Vulnerability,95
+CVE-2022-30526,Zyxel Firewall SUID Binary Privilege Escalation Vulnerability,75
+CVE-2022-3075,Google Chromium Insufficient Data Validation Vulnerability,95
+CVE-2022-30781,Gitea Git Fetch Remote Code Execution Vulnerability,75
+CVE-2022-31137,Roxy-WI subprocess_execute Function Remote Command Execution  Vulnerability,75
+CVE-2022-31199,Netwrix Auditor User Activity Video Recording Component Remote Code  Execution Vulnerability,90
+CVE-2022-31460,Meeting Owl Pro and Whiteboard Owl Hard-Coded Credentials Vulnerability, 95
+CVE-2022-31625,PHP Multiple Versions pg_query_params Function Remote Code  Execution Vulnerability,41
+CVE-2022-31626,PHP Multiple Versions pdo_mysql Extension Remote Code Execution  Vulnerability,41
+CVE-2022-31660,VMware Workspace ONE Access Identity Manager and vRealize  Automation Privilege Escalation Vulnerability,75
+CVE-2022-31814,pfSense pfBlockerNG Remote Code Execution Vulnerability,75
+CVE-2022-3218,Necta LLC WiFi Mouse Authentication Bypass Vulnerability,75
+CVE-2022-3229,Unified Intents Unified Remote Protocol Authentication Bypass Vulnerability,75
+CVE-2022-3236,Sophos Firewall Code Injection Vulnerability,95
+CVE-2022-32893,Apple iOS and macOS Out-of-Bounds Write Vulnerability,95
+CVE-2022-32894,Apple iOS and macOS Out-of-Bounds Write Vulnerability,95
+CVE-2022-32917,Apple iOS iPadOS and macOS Remote Code Execution Vulnerability,95
+CVE-2022-33891,Apache Spark Command Injection Vulnerability,95
+CVE-2022-34151,OMRON Corporation Multiple Products Credentials Leak Vulnerability,95
+CVE-2022-34538,Digital Watchdog DW MEGApix IP Camera Command Injection Vulnerability,35
+CVE-2022-34713,Microsoft Windows Support Diagnostic Tool (MSDT) Remote Code  Execution Vulnerability (DogWalk),95
+CVE-2022-34721,Windows Internet Key Exchange (IKE) Protocol Extensions Remote Code  Execution Vulnerability,95
+CVE-2022-34918,Linux Kernel Netfilter nft_set_elem_init Heap Overflow Privilege Escalation  Vulnerability,75
+CVE-2022-35405,Zoho ManageEngine Multiple Products Remote Code Execution Vulnerability,95
+CVE-2022-35526,WAVLINK login.cgi Command Injection Vulnerability,71
+CVE-2022-3569,Zimbra Collaboration Suite (ZCS) sudo Privilege Escalation Vulnerability,75
+CVE-2022-35914,Teclib GLPI Remote Code Execution Vulnerability,95
+CVE-2022-36267,Airspan AirSpot 5410 Remote Command Injection Vulnerability,75
+CVE-2022-36446,Webmin software/apt-lib.pl Command Injection Vulnerability,75
+CVE-2022-36534,Syncovery For Linux Web-GUI Authenticated Remote Command  Execution Vulnerability,75
+CVE-2022-36536,Syncovery For Linux post_applogin.php Component Privilege Escalation  Vulnerability,75
+CVE-2022-36804,Atlassian Bitbucket Server and Data Center Command Injection Vulnerability,95
+CVE-2022-37042,Zimbra Collaboration (ZCS) Authentication Bypass Vulnerability,95
+CVE-2022-37061,FLIR AX8 Remote Command Injection Vulnerability,75
+CVE-2022-3723,Google Chromium V8 Type Confusion Vulnerability,95
+CVE-2022-37393,Zimbras sudo Configuration Privilege Escalation Vulnerability,75
+CVE-2022-37706,Enlightenment Window Manager enlightenment_sys Component Privilege  Escalation Vulnerability,95
+CVE-2022-37969,Microsoft Windows Common Log File System (CLFS) Driver Privilege  Escalation Vulnerability,95
+CVE-2022-40139,Trend Micro Apex One and Apex One as a Service Improper Validation  Vulnerability,95
+CVE-2022-40684,Fortinet Multiple Products Authentication Bypass Vulnerability,95
+CVE-2022-41033,Microsoft Windows COM+ Event System Service Privilege Escalation  Vulnerability,95
+CVE-2022-41040,Microsoft Exchange Server Elevation of Privilege Vulnerability  (ProxyNotShell),95
+CVE-2022-41049,Microsoft Windows Mark of the Web (MOTW) Security Feature Bypass  Vulnerability,95
+CVE-2022-41073,Microsoft Windows Print Spooler Privilege Escalation Vulnerability,95
+CVE-2022-41080,Microsoft Exchange Server Privilege Escalation Vulnerability (OWASSRF),100
+CVE-2022-41082,Microsoft Exchange Server Remote Code Execution Vulnerability  (ProxyNotShell),95
+CVE-2022-41091,Windows Mark of the Web Security Feature Bypass Vulnerability,95
+CVE-2022-41099,BitLocker Security Feature Bypass Vulnerability,30
+CVE-2022-41125,Microsoft Windows CNG Key Isolation Service Privilege Escalation  Vulnerability,95
+CVE-2022-41128,Microsoft Windows Scripting Languages Remote Code Execution  Vulnerability,95
+CVE-2022-41343,Dompdf FontMetrics.php Remote File Inclusion Vulnerability,42
+CVE-2022-4135,Google Chromium Heap Buffer Overflow Vulnerability,95
+CVE-2022-41352,Zimbra Collaboration (ZCS) Arbitrary File Upload Vulnerability,95
+CVE-2022-41622,BIG-IP and BIG-IQ iControl SOAP Cross-Site Request Forgery Vulnerability,75
+CVE-2022-41800,BIG-IP iControl REST Endpoint Command Injection Vulnerability,75
+CVE-2022-42475,Fortinet FortiOS Heap-Based Buffer Overflow Vulnerability,95
+CVE-2022-4262,Google Chromium V8 Type Confusion Vulnerability,95
+CVE-2022-42827,Apple iOS and iPadOS Out-of-Bounds Write Vulnerability,95
+CVE-2022-42856,Apple iOS Type Confusion Vulnerability,95
+CVE-2022-44698,Microsoft Defender SmartScreen Security Feature Bypass Vulnerability,95
+CVE-2022-45045,Xiongmai NVR Multiple Devices Arbitrary Command Execution Vulnerability,41
+CVE-2022-45359,YITH WooCommerce Gift Cards Premium Plugin Arbitrary File Upload  Vulnerability,95
