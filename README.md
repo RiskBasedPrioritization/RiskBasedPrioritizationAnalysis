@@ -58,7 +58,7 @@ Other data sources to consider - these are not currently used here:
    2. enrich the CVE data from NVD with the other data sources
    3. add an "Exploit" column to indicate the source of the exploitability (used later to set colors of CVE data in plots)
    4. store the output in data_out/nvd_cves_v3_enriched.csv.gz
-2. [kev_epss_cvss.ipynb](./analysis/analysis/kev_epss_cvss.ipynb)
+2. [kev_epss_cvss.ipynb](./analysis/kev_epss_cvss.ipynb)
    1. Read the data from data_out/nvd_cves_v3_enriched.csv.gz
    2. Read the data from CISA KEV alert reports in ./data_in/cisa_kev/
    3. Plot CISA KEV datasets showing EPSS, CVSS by source of the exploitability
