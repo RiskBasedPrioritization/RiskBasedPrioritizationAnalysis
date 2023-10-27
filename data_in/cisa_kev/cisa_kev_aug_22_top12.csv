@@ -5,7 +5,7 @@ CVE-2021-31207,Microsoft,Exchange Server,Security Feature Bypass,CWE-22 Improper
 CVE-2021-34523,Microsoft,Exchange Server,Elevation of Privilege,CWE-287 Improper Authentication
 CVE-2021-40539,Zoho ManageEngine,ADSelfService Plus,"RCE Authentication Bypass",CWE-287 Improper Authentication
 CVE-2021-26084,Atlassian,Confluence Server and Data Center,Arbitrary code execution,CWE-74 Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection')
-CVE-2021- 44228,Apache,Log4j2,RCE,"CWE-917 Improper Neutralization of Special Elements used in an Expression Language Statement ('Expression Language Injection')CWE-20 Improper Input Validation CWE-400 Uncontrolled Resource Consumption CWE-502 Deserialization of Untrusted Data"
+CVE-2021-44228,Apache,Log4j2,RCE,"CWE-917 Improper Neutralization of Special Elements used in an Expression Language Statement ('Expression Language Injection')CWE-20 Improper Input Validation CWE-400 Uncontrolled Resource Consumption CWE-502 Deserialization of Untrusted Data"
 CVE-2022-22954,VMware,Workspace ONE Access and Identity Manager,RCE,CWE-94 Improper Control of Generation of Code ('Code Injection')
 CVE-2022-22960,VMware,"Workspace ONE Access, Identity Manager, and vRealize Automation",Improper Privilege Management,CWE-269 Improper Privilege Management
 CVE-2022-1388,F5 Networks,BIG-IP,Missing Authentication Vulnerability,CWE-306 Missing Authentication for Critical Function
