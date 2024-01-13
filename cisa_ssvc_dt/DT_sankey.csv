@@ -1,0 +1,23 @@
+,Source,Target,Value,Color,"Node, Label"
+0,0,0,0,#fd8e3c,All CVEs
+1,0,1,0,#e31a1c,Exploitation - Active
+2,0,2,0,#fd8e3c,Exploitation - Poc
+3,0,3,0,#fed977,Exploitation - None Known
+4,1,4,0,#b00026,Automatable - Yes
+5,1,5,0,#ed2e21,Automatable - No
+6,2,6,0,#fc5b2e,Automatable - Yes
+7,2,7,0,#feab49,Automatable - No
+8,3,8,0,#feca66,Automatable - Yes
+9,3,9,0,#fff1a9,Automatable - No
+10,4,10,0,#910026,TechnicalImpact - total
+11,4,11,0,#b40026,TechnicalImpact - partial
+12,5,12,0,#c20325,TechnicalImpact - total
+13,5,13,0,#d7121f,TechnicalImpact - partial
+14,6,14,0,#e31a1c,TechnicalImpact - total
+15,6,15,0,#f13824,TechnicalImpact - partial
+16,7,16,0,#f84628,TechnicalImpact - total
+17,7,17,0,#fc6832,TechnicalImpact - partial
+18,8,18,0,#fd7a37,TechnicalImpact - total
+19,8,19,0,#fd9841,TechnicalImpact - partial
+20,9,20,0,#fea245,TechnicalImpact - total
+21,9,21,0,#feb852,TechnicalImpact - partial

@@ -64,23 +64,57 @@ Other data sources to consider - these are not currently used here:
 [analysis](./analysis) 
 
 1. [enrich_cves.ipynb](./analysis/enrich_cves.ipynb) 
-[label](analysis/cisa_kev_epss_cvss.ipynb)   1. take the data sources from [data_in/](./data_in/) 
-   2. enrich the CVE data from NVD with the other data sources
-   3. add an "Exploit" column to indicate the source of the exploitability (used later to set colors of CVE data in plots)
+   1. Take the data sources from [data_in/](./data_in/) 
+   2. Enrich the CVE data from NVD with the other data sources
+   3. Add an "Exploit" column to indicate the source of the exploitability (used later to set colors of CVE data in plots)
    4. store the output in data_out/nvd_cves_v3_enriched.csv.gz
 2. [kev_epss_cvss.ipynb](./analysis/kev_epss_cvss.ipynb)
-   1. Read the data from data_out/CVSSData_enriched.csv.gz
+   1. Read the enriched CVE data from data_out/CVSSData_enriched.csv.gz
    2. Read the data from CISA KEV alert reports in ./data_in/cisa_kev/
    3. Plot CISA KEV datasets showing EPSS, CVSS by source of the exploitability
    4. Write data_out/cisa_kev/csa/csa.csv.gz which is the CISA KEV CysberSecurity Alerts (CSA) subset with EPSS and other data
 3. [qualys.ipynb](analysis/qualys.ipynb)
-    1. Read the data from data_out/CVSSData_enriched.csv.gz
+    1. Read the enriched CVE data from data_out/CVSSData_enriched.csv.gz
     2. Read the data from ./data_in/qualys
     3. Plot Qualys dataset showing EPSS, CVSS by source of the exploitability
     4. Write data_out/qualys/qualys.csv.gz which is the Qualys data with EPSS and other data
  4. [msrc.ipynb](analysis/msrc.ipynb)
-    1. Read the data from data_out/CVSSData_enriched.csv.gz
+    1. Read the enriched CVE data from data_out/CVSSData_enriched.csv.gz
     2. Read the data from ./data_in/msrc
     3. Plot Microsoft Exploitability Index dataset showing EPSS, CVSS by source of the exploitability
     4. Write data_out/msrc/msrc.csv.gz which is the MSEI data with EPSS and other data
+
+
+# CISA SSVC Decision Trees
+
+## CISA SSVC Decision Tree From Scratch Example Implementation
+
+[cisa_ssvc_dt](./cisa_ssvc_dt) 
+
+1. [DT_from_scratch.ipynb](./cisa_ssvc_dt/DT_from_scratch.ipynb) 
+   1. Read the enriched CVE data from data_out/CVSSData_enriched.csv.gz
+   2. Read the Decision Tree definition cisa_ssvc_dt/DT_rbp.csv
+   3. Define the Decision Logic for the Decision Nodes
+   4. Calculate the Decision Node Values for all CVEs
+   5. Do some Exploratory Data Analysis with Venn Diagrams to understand our data
+   6. Calculate the Output Decision from the Decision Node Values
+   7. Plot Flow of All CVES across the Decision Tree aka Sankey
+      1. Read the Sankey Diagram template definition cisa_ssvc_dt/DT_sankey.csv
+   8. Triage some CVEs
+      1. Read a list of CVEs to triage cisa_ssvc_dt/triage/cves2triage.csv
+      2. Get Decisions
+      3. Plot 
+
+
+## CISA SSVC Decision Tree Analysis for Feature Importance
+
+1. [DT_analysis.ipynb](cisa_ssvc_dt/DT_analysis.ipynb) 
+   1. Read the Decision Tree definition cisa_ssvc_dt/DT_rbp.csv
+   2. Perform Feature Importance using 2 methods
+      1. Permutation Importance 
+      2. Drop-column Importance
+   
+See https://github.com/CERTCC/SSVC/issues/309 for the suggestion to add drop column importance to CISA SSVC.
+
+
 

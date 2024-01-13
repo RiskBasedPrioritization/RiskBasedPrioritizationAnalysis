@@ -1,0 +1,14 @@
+pandas
+matplotlib
+matplotlib_venn 
+plotly
+seaborn
+sklearn
+csv
+numpy
+IPython
+datetime
+glob
+json
+logging
+warnings
