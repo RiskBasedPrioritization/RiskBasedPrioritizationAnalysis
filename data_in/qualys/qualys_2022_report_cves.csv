@@ -28,33 +28,6 @@ CVE-2022-22047,Microsoft Windows Client Server Runtime Subsystem (CSRSS) Privile
 CVE-2022-22536,SAP Multiple Products HTTP Request Smuggling Vulnerability,95
 CVE-2022-22587,Apple Multiple Products Memory Corruption Vulnerability,95
 CVE-2022-22616,Apple Multiple Products Gatekeeper Bypass Incorrect Authorization  Vulnerability,40
-CVE-2021-4034,polkits pkexec Local Privilege Escalation Vulnerability (PwnKit),95
-CVE-2022-0028,Palo Alto Networks PAN-OS Reflected Amplification Denial-of-Service  Vulnerability,95
-CVE-2022-0543,Debian-specific Redis Server Lua Sandbox Escape Vulnerability,95
-CVE-2022-0609,Google Chrome Animation Module Use-After-Free Vulnerability,95
-CVE-2022-0824,webmin Improper Access Control to Remote Code Execution,75
-CVE-2022-0847,Linux Kernel Privilege Escalation Vulnerability in push_pipe Function (Dirty  Pipe),95
-CVE-2022-0995,Linux Kernel Event Notification Subsystem Out-of-Bounds Write Flaw,75
-CVE-2022-1040,Sophos Firewall User Portal and Webadmin Authentication Bypass  Vulnerability,100
-CVE-2022-1096,Google Chromium V8 Type Confusion Vulnerability,95
-CVE-2022-1329,WordPress Elementor Website Builder Plugin Remote Code Execution  Vulnerability,75
-CVE-2022-1364,Google Chromium V8 Turbofan Type Confusion Vulnerability,95
-CVE-2022-1388,F5 BIG-IP Missing Authentication Vulnerability,95
-CVE-2022-2003,AutomationDirect DirectLOGIC Sensitive Information Leakge Vulnerability,65
-CVE-2022-20699,Cisco Small Business RV Series Routers Stack-based Buffer Overflow  Vulnerability,95
-CVE-2022-20700,Cisco Small Business RV Series Routers Stack-based Buffer Overflow  Vulnerability,95
-CVE-2022-20701,Cisco Small Business RV Series Routers Stack-based Buffer Overflow  Vulnerability,95
-CVE-2022-20703,Cisco Small Business RV Series Routers Stack-based Buffer Overflow  Vulnerability,95
-CVE-2022-20708,Cisco Small Business RV Series Routers Stack-based Buffer Overflow  Vulnerability,95
-CVE-2022-20821,Cisco IOS XR Open Port Vulnerability,95
-CVE-2022-20828,Cisco Adaptive Security Appliance (ASA) FirePOWER Arbitrary Command  Execution Vulnerability,75
-CVE-2022-2143,Advantech iView NetworkServlet Command Injection Vulnerability,75
-CVE-2022-21882,Microsoft Win32k Privilege Escalation Vulnerability,95
-CVE-2022-21919,Microsoft Windows User Profile Service Privilege Escalation Vulnerability,95
-CVE-2022-21971,Microsoft Windows Runtime Remote Code Execution Vulnerability,95
-CVE-2022-21999,Windows Print Spooler Privilege Escalation Vulnerability (SpoolFool),95
-CVE-2022-22047,Microsoft Windows Client Server Runtime Subsystem (CSRSS) Privilege  Escalation Vulnerability,95
-CVE-2022-22536,SAP Multiple Products HTTP Request Smuggling Vulnerability,95
 CVE-2022-22620,Apple Webkit Remote Code Execution Vulnerability,95
 CVE-2022-22674,Apple macOS Out-of-Bounds Read Vulnerability,95
 CVE-2022-22675,Apple macOS Out-of-Bounds Write Vulnerability,95
